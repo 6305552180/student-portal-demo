@@ -1,1 +1,1 @@
-# student-portal-demo
+A Student portal have to  designed like the STUDENT data in the colleges or in schools will be stored in the digital form like in different databases, so that data sharing will be easy , the paper work will be reduced and the data efficiency or the accessability is easy.
